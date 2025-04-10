@@ -1,0 +1,25 @@
+nav {
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+  background-color: var(--adres-blue);
+  box-shadow: var(--shadow);
+}
+
+nav button {
+  margin: 0 0.5rem;
+  padding: 0.6rem 1.4rem;
+  background-color: var(--adres-green);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+nav button:hover {
+  background-color: var(--adres-blue-light);
+  transform: scale(1.05);
+}
