@@ -45,8 +45,8 @@ Este proyecto es una aplicación web desarrollada en Angular (frontend) y .NET (
 
 ### 1. Clona el repositorio
 
-      ```bash
-      https://github.com/nestorm94/prueba_adres/new/main?filename=README.md  
+      bash
+      https://github.com/nestorm94/prueba_adres
 
 ### 2. Levanta el backend (.NET)
   cd backend
